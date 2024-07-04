@@ -1,13 +1,7 @@
 # INSTRUCTION
 참고사항
 
----
-aliases:
-  - 백준
-tags:
-  - 개발
-  - 알고리즘
----
+# 백준 12단계 이후 권장 커리큘럼
 
 ## 알고리즘 기초
 ### [알고리즘 기초 1/2](https://code.plus/course/41)
